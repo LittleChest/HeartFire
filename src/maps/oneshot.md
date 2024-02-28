@@ -4,5 +4,4 @@ img: https://static.planetminecraft.com/files/image/minecraft/project/2022/857/1
 version: 1.19
 desc: "Oneshot"
 download: https://download.hfpro.top/maps/theblueman003/Oneshot.zip
-respack: 语言包内置
 ---

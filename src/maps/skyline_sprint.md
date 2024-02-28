@@ -4,5 +4,4 @@ img: https://static.planetminecraft.com/files/image/minecraft/project/2023/779/1
 version: 1.20.2+
 desc: "Skyline Sprint"
 download: https://download.hfpro.top/maps/mythicalcreation/Skyline_Sprint.zip
-respack: 语言包内置
 ---

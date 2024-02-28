@@ -4,7 +4,7 @@ title: 浏览作品
 ---
 
 <script setup>
-import { data } from "../../../.vitepress/maps.zh_Hans.data.ts";
+import { data } from "../../.vitepress/maps.zh_Hans.data.ts";
 const maps = [...data].reverse();
 
 import { computed } from 'vue'
@@ -21,11 +21,15 @@ import VPBadge from 'vitepress/dist/client/theme-default/components/VPBadge.vue'
         <img class="image" :src="map.frontmatter.img" :alt="map.frontmatter.title" />
           <div class="data">
             <VPLink :href="map.url">
-              <h1 class="name">
+              <h1 v-if="map.frontmatter.title" class="name">
                 {{ map.frontmatter.title }}
-                <VPBadge :text="map.frontmatter.version" />
-                <VPBadge type="warning" :text="map.frontmatter.respack" />
               </h1>
+              <i v-if="map.frontmatter.author" class="author">
+                由 {{ map.frontmatter.author }} 创作
+                <br />
+              </i>
+              <VPBadge v-if="map.frontmatter.version" :text="map.frontmatter.version" />
+              <VPBadge v-if="map.frontmatter.respack" type="warning" :text="map.frontmatter.respack" />
               <p class="desc" v-html="map.frontmatter.desc" />
             </VPLink>
           </div>
@@ -70,14 +74,14 @@ import VPBadge from 'vitepress/dist/client/theme-default/components/VPBadge.vue'
 }
 
 .info {
-  padding-bottom: 55px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
   flex-grow: 1;
   background-color: var(--vp-c-bg-soft);
 }
 
 .data {
-  margin-left: 24px;
-  padding-top: 20px;
+  margin: 24px;
   text-align: left;
 }
 
@@ -99,6 +103,13 @@ import VPBadge from 'vitepress/dist/client/theme-default/components/VPBadge.vue'
   font-size: 20px;
   margin: 0;
   font-weight: 600;
+}
+
+.author {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--vp-c-text-2);
 }
 
 .desc {
