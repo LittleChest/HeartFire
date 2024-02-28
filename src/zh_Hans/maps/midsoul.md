@@ -4,5 +4,5 @@ img: https://static.planetminecraft.com/files/image/minecraft/project/2024/122/1
 version: 1.20.4
 desc: "Midnight Soul"
 download: https://download.hfpro.top
-respack: 语言包可用
+respack: 语言包单独
 ---
