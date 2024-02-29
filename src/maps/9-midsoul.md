@@ -5,5 +5,5 @@ img: https://static.planetminecraft.com/files/image/minecraft/project/2024/122/1
 version: 1.20.4
 desc: "Midnight Soul"
 download: https://download.hfpro.top/maps/heartfireproject/midsoul/MidSoul.zip
-respack: 可选资源包
+respack: 可选语言包
 ---

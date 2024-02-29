@@ -1,5 +1,6 @@
 ---
 title: Oneshot
+author: TheblueMan003
 img: https://static.planetminecraft.com/files/image/minecraft/project/2022/857/15855927-quakecraft-thumbnail_xl.webp
 version: 1.19
 desc: "Oneshot"

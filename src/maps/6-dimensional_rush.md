@@ -1,5 +1,6 @@
 ---
 title: Dimensional Rush
+author: TheblueMan003
 img: https://static.planetminecraft.com/files/image/minecraft/project/2023/669/16488825-dimensionalrush-tumbnail_xl.webp
 version: 1.19.3
 desc: "Dimensional Rush"
