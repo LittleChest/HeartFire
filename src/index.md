@@ -105,10 +105,6 @@ var giscus_theme
 
 <VPTeamMembers size="small" :members="members" />
 
-<br />
-<br />
-<br />
-
 # 赞助列表
 
 [![赞助列表](https://afdian-lime.vercel.app/sponsor.svg)](https://afdian.net/a/HfPro)
