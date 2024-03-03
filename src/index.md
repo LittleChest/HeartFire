@@ -111,7 +111,7 @@ var giscus_theme
 
 # 赞助列表
 
-![赞助列表](https://afdian-lime.vercel.app/sponsor.svg)
+[![赞助列表](https://afdian-lime.vercel.app/sponsor.svg)](https://afdian.net/a/HfPro)
 
 # 联系我们
 
