@@ -109,6 +109,10 @@ var giscus_theme
 <br />
 <br />
 
+# 赞助列表
+
+![赞助列表](https://afdian-lime.vercel.app/sponsor.svg)
+
 # 联系我们
 
 通过 GitHub Discussions 直接与我们对话。
