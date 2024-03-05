@@ -10,5 +10,3 @@ export default {
     vitepressNprogress(ctx);
   },
 };
-
-// @TODO Better 404 page

@@ -105,6 +105,8 @@ var giscus_theme
 
 <VPTeamMembers size="small" :members="members" />
 
+<br />
+
 # 赞助列表
 
 [![赞助列表](https://afdian-lime.vercel.app/sponsor.svg)](https://afdian.net/a/HfPro)
@@ -113,6 +115,6 @@ var giscus_theme
 
 通过 GitHub Discussions 直接与我们对话。
 
-## 已被禁用
+### 已被禁用
 
 或者，请向 [admin@hfpro.top](mailto:admin@hfpro.top) 发送邮件。

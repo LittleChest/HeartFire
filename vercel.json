@@ -15,5 +15,5 @@
     }
   ],
   "outputDirectory": ".vitepress/dist",
-  "trailingSlash": true
+  "trailingSlash": false
 }
