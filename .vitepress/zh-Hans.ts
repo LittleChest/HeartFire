@@ -32,23 +32,14 @@ export const zh_Hans = defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     {
-      text: "更多",
-      items: [
-        {
-          text: "博客",
-          link: "https://blog.hfpro.top",
-        },
-        {
-          text: "博客",
-          link: "https://forum.hfpro.top",
-        },
-      ],
+      text: "博客",
+      link: "https://blog.hfpro.top",
     },
   ];
 }
 
 export const search: DefaultTheme.LocalSearchOptions["locales"] = {
-  zh_Hans: {
+  root: {
     translations: {
       button: {
         buttonText: "搜索",
