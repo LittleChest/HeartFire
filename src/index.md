@@ -41,7 +41,7 @@ const members = [
     avatar: 'https://littleskin.cn/avatar/138166',
     name: 'LittleChest',
     title: '卖萌',
-    desc: "如图所示...",
+    desc: "饿饿，饭饭~",
     links: [
       { icon: 'github', link: 'https://github.com/LittleChest' },
       { icon: 'discord', link: 'https://discord.com/users/894903639808831488' },
@@ -86,6 +86,20 @@ const members = [
     ],
     sponsor: "https://payme.heimnad.top",
     actionText: '赞助'
+  },
+  {
+    avatar: 'https://littleskin.cn/avatar/364649',
+    name: 'P1ge0nLee0',
+    title: '打杂/翻译/宣发',
+    desc: "咕咕咕，咕咕咕咕咕咕咕。",
+    links: [
+      { icon: 'github', link: 'https://github.com/GGHePinGG' },
+      { icon: 'discord', link: 'https://discord.com/users/843090662350127114' },
+      { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=1434230923' },
+      { icon: 'x', link: 'https://twitter.com/IamHePingGe' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@P1ge0nLee0' },
+      { icon: mail, link: 'mailto:me@lee0p1ge0n.top' }
+    ]
   }
 ]
 
