@@ -20,7 +20,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: "/logo.png",
-    externalLinkIcon: true,
+    externalLinkIcon: false,
     outline: false,
     docFooter: {
       prev: false,
