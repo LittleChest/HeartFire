@@ -15,7 +15,7 @@ export default defineConfig({
     hostname: "https://hfpro.top",
   },
   locales: {
-    root: { label: "简体中文", ...zh_Hans },
+    zh: { label: "简体中文", ...zh_Hans },
     // en: { label: "English", ...en },
   },
   themeConfig: {
