@@ -8,14 +8,14 @@ hero:
   tagline: A Project about Minecraft
   image:
     src: /logo.png
-    alt: HFP
+    alt: Heart Fire Project
   actions:
     - theme: brand
       text: View Maps
       link: "./maps"
     - theme: alt
       text: Contact Us
-      link: "#contactus"
+      link: "#Contact Us"
 
 features:
   - icon: 🤔
