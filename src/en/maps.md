@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 浏览作品
+title: View Maps
 ---
 
 <script setup>
@@ -25,7 +25,7 @@ import VPBadge from 'vitepress/dist/client/theme-default/components/VPBadge.vue'
                 {{ map.frontmatter.title }}
               </h1>
               <i v-if="map.frontmatter.author" class="author">
-                由 {{ map.frontmatter.author }} 创作
+                Made by {{ map.frontmatter.author }}
                 <br />
               </i>
               <VPBadge v-if="map.frontmatter.version" :text="map.frontmatter.version" />
@@ -36,7 +36,7 @@ import VPBadge from 'vitepress/dist/client/theme-default/components/VPBadge.vue'
         </div>
       <div class="sp">
         <VPLink v-if="map.frontmatter.download" class="sp-link" :href="map.frontmatter.download" no-icon>
-          <span class="vpi-arrow-down sp-icon" />下载
+          <span class="vpi-arrow-down sp-icon" />Download
         </VPLink>
       </div>
     </article>
