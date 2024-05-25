@@ -1,5 +1,5 @@
 import { defineConfig } from "vitepress";
-import { en } from "./en";
+import { en, search as enSearch } from "./en";
 import { zh_Hans, search as zhHansSearch } from "./zh-Hans";
 
 export default defineConfig({
@@ -30,7 +30,7 @@ export default defineConfig({
     search: {
       provider: "local",
       options: {
-        locales: { ...zhHansSearch },
+        locales: { ...zhHansSearch, ...enSearch },
       },
     },
   },
