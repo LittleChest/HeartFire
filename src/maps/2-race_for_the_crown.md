@@ -6,3 +6,5 @@ version: 1.19.3
 desc: "Race For The Crown"
 download: https://download.hfpro.top/maps/theblueman003/Race_For_The_Crown.zip
 ---
+
+# {{ $frontmatter.title }}

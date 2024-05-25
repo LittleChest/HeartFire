@@ -6,3 +6,5 @@ version: 1.19
 desc: "Oneshot"
 download: https://download.hfpro.top/maps/theblueman003/Oneshot.zip
 ---
+
+# {{ $frontmatter.title }}
