@@ -3,7 +3,7 @@ title: 午夜灵魂
 author: Roser7419
 img: https://download.hfpro.top/maps/images/9-midsoul.webp
 version: 1.20.4
-desc: "Midnight Soul"
+desc: 你将扮演灵魂或灵魂守卫者，在游戏内通过躲避与追逐取得最终胜利。
 download: https://download.hfpro.top/maps/heartfireproject/midsoul/MidSoul.zip
 respack: 可选语言包
 ---
