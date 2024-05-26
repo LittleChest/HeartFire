@@ -1,7 +1,7 @@
 ---
 title: Computry Stuff
 author: TheblueMan003
-img: https://static.planetminecraft.com/files/image/minecraft/project/2022/743/15447905-computer-stuff-thumbnail_xl.webp
+img: https://download.hfpro.top/maps/images/3-computry_stuff.webp
 version: 1.19.3
 desc: "Computry Stuff"
 download: https://download.hfpro.top/maps/theblueman003/Computry_Stuff.zip
