@@ -1,7 +1,7 @@
 ---
 title: Parkour Apocalypse
 author: TheblueMan003
-img: https://static.planetminecraft.com/files/image/minecraft/project/2022/139/16040481-pa-thumbnail_xl.webp
+img: https://download.hfpro.top/maps/images/5-parkour_apocalypse.webp
 version: 1.19.3
 desc: "Parkour Apocalpse"
 download: https://download.hfpro.top/maps/theblueman003/Parkour_Apocalypse.zip
