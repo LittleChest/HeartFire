@@ -38,7 +38,7 @@ respack: 可选语言包
 
 ## 鸣谢
 
-### 翻译
+### [翻译](#附加)
 
 心火计划 (zh_cn, en_us)
 
@@ -54,4 +54,4 @@ ZachOBuilds, oozner, WHLDTITAN
 
 # 附加
 
-如果您想以简体中文外的语言游玩午夜灵魂，请从此处[下载语言包](https://download.hfpro.top/maps/heartfireproject/midsoul/languagepack/MidSoul-LanguagePack.zip)，翻译由心火计划与社区共同提供，可在鸣谢列表中获取更多详细。
+如果您想以简体中文外的语言游玩午夜灵魂，请从此处[下载语言包](https://download.hfpro.top/maps/heartfireproject/midsoul/languagepack/MidSoul-LanguagePack.zip)，翻译由心火计划与社区共同提供，可在[鸣谢列表](#翻译)中获取更多详细信息。
