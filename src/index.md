@@ -116,7 +116,6 @@ const members = [
     avatar: 'https://littleskin.cn/avatar/106043',
     name: 'uı̣ꓶı̣Xǝı̣X',
     title: '打杂/翻译',
-    desc: "",
     links: [
       { icon: 'github', link: 'https://github.com/XieXiLin2' },
       { icon: mail, link: 'mailto:support@xiexilin.com' }
