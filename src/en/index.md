@@ -149,6 +149,15 @@ var giscus_theme
 
 Talk to us directly via GitHub Discussions.
 
-### Disabled
+<Giscus
+  repo="Heart-Fire-Project/.github"
+  repoId="R_kgDOLY_Opg"
+  mapping="number"
+  term="1"
+  reactionsEnabled="1"
+  inputPosition="top"
+  :theme=giscus_theme
+  lang="en"
+/>
 
 Alternatively, send an e-mail to [admin@hfpro.top](mailto:admin@hfpro.top).

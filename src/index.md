@@ -149,6 +149,15 @@ var giscus_theme
 
 通过 GitHub Discussions 直接与我们对话。
 
-### 已被禁用
+<Giscus
+  repo="Heart-Fire-Project/.github"
+  repoId="R_kgDOLY_Opg"
+  mapping="number"
+  term="1"
+  reactionsEnabled="1"
+  inputPosition="top"
+  :theme=giscus_theme
+  lang="zh-CN"
+/>
 
 或者，请向 [admin@hfpro.top](mailto:admin@hfpro.top) 发送邮件。
