@@ -67,7 +67,7 @@ const members = [
   },
   {
     avatar: 'https://littleskin.cn/avatar/263879',
-    name: 'MeowBot_NEKO',
+    name: '1KYR',
     title: '翻译',
     links: [
       { icon: 'github', link: 'https://github.com/Seayay' },
@@ -99,6 +99,26 @@ const members = [
       { icon: 'x', link: 'https://twitter.com/IamHePingGe' },
       { icon: 'youtube', link: 'https://www.youtube.com/@P1ge0nLee0' },
       { icon: mail, link: 'mailto:me@lee0p1ge0n.top' }
+    ]
+  },
+  {
+    avatar: 'https://littleskin.cn/avatar/player/Rsrsr',
+    name: 'Roser / Rsrsr',
+    title: '美工/翻译/数据包/建筑/策划',
+    desc: "彼岸双生 = 顶级劳工",
+    links: [
+      { icon: 'github', link: 'https://github.com/Roser7419' },
+      { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=3374287798' },
+      { icon: mail, link: 'mailto:Roser@7419.studio' }
+    ]
+  },
+  {
+    avatar: 'https://littleskin.cn/avatar/106043',
+    name: 'uı̣ꓶı̣Xǝı̣X',
+    title: '打杂/翻译',
+    links: [
+      { icon: 'github', link: 'https://github.com/XieXiLin2' },
+      { icon: mail, link: 'mailto:support@xiexilin.com' }
     ]
   }
 ]

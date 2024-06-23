@@ -1,32 +1,32 @@
 ---
 layout: home
-title: 心火计划
+title: Heart Fire Project
 titleTemplate: false
 
 hero:
-  name: 心火计划
-  tagline: 一个关于 Minecraft 的计划。
+  name: Heart Fire Project
+  tagline: A project about Minecraft.
   image:
     src: /logo.png
-    alt: 心火计划
+    alt: Heart Fire Project
   actions:
     - theme: brand
-      text: 浏览作品
+      text: View Our Works
       link: "./maps"
     - theme: alt
-      text: 联系我们
-      link: "#联系我们"
+      text: Contact Us
+      link: "#Contact Us"
 
 features:
   - icon: 🤔
-    title: 心火计划是什么？
-    details: 心火计划是一个由 Minecraft 玩家组成的热情社区。我们的使命是通过翻译和共享，让每一个 Minecraft 的世界都能被大多数的玩家所理解和享受。
+    title: What is the Heart Fire Project?
+    details: The Heart Fire Project is a passionate community of Minecraft players. Our mission is to make every Minecraft world understandable and enjoyable to the majority of players through translation and sharing.
   - icon: 🧭
-    title: 跨越语言障碍
-    details: 我们的团队专注于翻译 Minecraft 地图，我们都致力于让这些世界的故事和环境能被更多的玩家所理解，让语言不再成为探索新世界的障碍。
+    title: Crossing the language barrier.
+    details: Our team specializes in translating Minecraft maps, and we're all committed to making the stories and environments of these worlds more accessible to a wider audience, so that language is no longer a barrier to exploring new worlds.
   - icon: 💝
-    title: 创造并分享优质的 Minecraft 体验
-    details: 在心火计划中，我们深信创新和创造力是推动我们前进的动力。我们鼓励每一位成员将他们的想象力注入到 Minecraft 的世界中，创造出独一无二的地图，让每个玩家都能体验到不一样的冒险。
+    title: Create and share quality Minecraft experiences.
+    details: At the Heart Fire Project, we strongly believe that innovation and creativity is what drives us forward. We encourage every member to infuse their imagination into the world of Minecraft and create unique maps so that every player can experience a different kind of adventure.
 ---
 
 <script setup>
@@ -40,8 +40,8 @@ const members = [
   {
     avatar: 'https://littleskin.cn/avatar/138166',
     name: 'LittleChest',
-    title: '卖萌',
-    desc: "饿饿，饭饭~",
+    title: 'CUTE',
+    desc: "Hungry, hungry, hungry!",
     links: [
       { icon: 'github', link: 'https://github.com/LittleChest' },
       { icon: 'discord', link: 'https://discord.com/users/894903639808831488' },
@@ -50,13 +50,13 @@ const members = [
       { icon: mail, link: 'mailto:little@littlew.top' }
     ],
     sponsor: "https://afdian.net/a/LittleChest",
-    actionText: '赞助'
+    actionText: 'Sponsor'
   },
   {
     avatar: 'https://littleskin.cn/avatar/414892',
     name: 'Beiyao',
     title: 'owner/admin',
-    desc: "你可以叫我北遥/北药/beiyao",
+    desc: "You can call me 北遥/北药/beiyao",
     links: [
       { icon: 'github', link: 'https://github.com/beiyaohhhc' },
       { icon: 'discord', link: 'https://discord.com/users/844536118895706152' },
@@ -67,8 +67,8 @@ const members = [
   },
   {
     avatar: 'https://littleskin.cn/avatar/263879',
-    name: 'MeowBot_NEKO',
-    title: '翻译',
+    name: '1KYR',
+    title: 'Translator',
     links: [
       { icon: 'github', link: 'https://github.com/Seayay' },
       { icon: mail, link: 'mailto:1kyr@hfpro.top' }
@@ -77,21 +77,21 @@ const members = [
   {
     avatar: 'https://littleskin.cn/avatar/415151',
     name: 'HeimNad',
-    title: '技术',
-    desc: "心火计划最大闲人",
+    title: 'Technician',
+    desc: "Maximum idlers for the Heart Fire Project",
     links: [
       { icon: 'github', link: 'https://github.com/HeimNad' },
       { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=5278626' },
       { icon: mail, link: 'mailto:5278626@qq.com' }
     ],
     sponsor: "https://payme.heimnad.top",
-    actionText: '赞助'
+    actionText: 'Sponsor'
   },
   {
     avatar: 'https://littleskin.cn/avatar/364649',
     name: 'P1ge0nLee0',
-    title: '打杂/翻译/宣发',
-    desc: "咕咕咕，咕咕咕咕咕咕咕。",
+    title: 'Handyman/Translator/\nPublicist',
+    desc: "Coo coo coo, coo coo coo coo coo coo coo coo coo coo coo coo coo coo coo coo.",
     links: [
       { icon: 'github', link: 'https://github.com/GGHePinGG' },
       { icon: 'discord', link: 'https://discord.com/users/843090662350127114' },
@@ -99,6 +99,26 @@ const members = [
       { icon: 'x', link: 'https://twitter.com/IamHePingGe' },
       { icon: 'youtube', link: 'https://www.youtube.com/@P1ge0nLee0' },
       { icon: mail, link: 'mailto:me@lee0p1ge0n.top' }
+    ]
+  },
+  {
+    avatar: 'https://littleskin.cn/avatar/player/Rsrsr',
+    name: 'Roser / Rsrsr',
+    title: 'Art/Translator/Datapack/\nArchitecture/Planner',
+    desc: "The Other Side = Top Laborer",
+    links: [
+      { icon: 'github', link: 'https://github.com/Roser7419' },
+      { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=3374287798' },
+      { icon: mail, link: 'mailto:Roser@7419.studio' }
+    ]
+  },
+  {
+    avatar: 'https://littleskin.cn/avatar/106043',
+    name: 'uı̣ꓶı̣Xǝı̣X',
+    title: 'Handyman/Translator',
+    links: [
+      { icon: 'github', link: 'https://github.com/XieXiLin2' },
+      { icon: mail, link: 'mailto:support@xiexilin.com' }
     ]
   }
 ]
@@ -115,20 +135,20 @@ var giscus_theme
 <br />
 <br />
 
-# 成员列表
+# Member List
 
 <VPTeamMembers size="small" :members="members" />
 
 <br />
 
-# 赞助列表
+# Sponsor List
 
-[![赞助列表](https://afdian.hfpro.top/sponsor.svg)](https://afdian.net/a/HfPro)
+[![Sponsor List](https://afdian.hfpro.top/sponsor.svg)](https://afdian.net/a/HfPro)
 
-# 联系我们
+# Contact Us
 
-通过 GitHub Discussions 直接与我们对话。
+Talk to us directly via GitHub Discussions.
 
-### 已被禁用
+### Disabled
 
-或者，请向 [admin@hfpro.top](mailto:admin@hfpro.top) 发送邮件。
+Alternatively, send an e-mail to [admin@hfpro.top](mailto:admin@hfpro.top).
