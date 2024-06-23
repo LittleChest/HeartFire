@@ -67,7 +67,7 @@ const members = [
   },
   {
     avatar: 'https://littleskin.cn/avatar/263879',
-    name: 'MeowBot_NEKO',
+    name: '1KYR',
     title: '翻译',
     links: [
       { icon: 'github', link: 'https://github.com/Seayay' },
