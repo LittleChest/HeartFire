@@ -120,6 +120,15 @@ const members = [
       { icon: 'github', link: 'https://github.com/XieXiLin2' },
       { icon: mail, link: 'mailto:support@xiexilin.com' }
     ]
+  },
+  {
+    avatar: 'https://littleskin.cn/avatar/player/SmallSkru',
+    name: 'ILY.樱',
+    title: 'Planner',
+    links: [
+      { icon: 'github', link: 'https://github.com/SmallSkrua' },
+      { icon: mail, link: 'mailto:1436924406@qq.com' }
+    ]
   }
 ]
 

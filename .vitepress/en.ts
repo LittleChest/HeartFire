@@ -12,7 +12,7 @@ export const en = defineConfig({
     nav: nav(),
 
     footer: {
-      message: "Constructed by " + adjective + " LittleChest",
+      message: "Build by " + adjective + " LittleChest",
       copyright: "© " + new Date().getFullYear() + " Heart Fire Project",
     },
 
@@ -24,8 +24,8 @@ export const en = defineConfig({
     returnToTopLabel: "Back to top",
     sidebarMenuLabel: "Menu",
     darkModeSwitchLabel: "Theme",
-    lightModeSwitchTitle: "Switch to light color mode",
-    darkModeSwitchTitle: "Switch to dark color mode",
+    lightModeSwitchTitle: "Switch to light mode",
+    darkModeSwitchTitle: "Switch to dark mode",
   },
 });
 
@@ -39,7 +39,7 @@ function nav(): DefaultTheme.NavItem[] {
 }
 
 export const search: DefaultTheme.LocalSearchOptions["locales"] = {
-  root: {
+  en: {
     translations: {
       button: {
         buttonText: "Search",
