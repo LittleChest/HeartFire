@@ -113,7 +113,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://littleskin.cn/avatar/106043',
+    avatar: 'https://littleskin.cn/avatar/player/XieXiLin',
     name: 'uı̣ꓶı̣Xǝı̣X',
     title: 'Handyman/Translator',
     links: [
