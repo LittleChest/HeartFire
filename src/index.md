@@ -13,9 +13,6 @@ hero:
     - theme: brand
       text: 浏览作品
       link: "./maps"
-    - theme: alt
-      text: 联系我们
-      link: "#联系我们"
 
 features:
   - icon: 🤔
@@ -154,9 +151,7 @@ var giscus_theme
 
 [![赞助列表](https://afdian.hfpro.top/sponsor.svg)](https://afdian.net/a/HfPro)
 
-# 联系我们
-
-通过 GitHub Discussions 直接与我们对话。
+# 讨论板
 
 <Giscus
   repo="Heart-Fire-Project/.github"
