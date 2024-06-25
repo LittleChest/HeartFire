@@ -113,12 +113,21 @@ const members = [
     ]
   },
   {
-    avatar: 'https://littleskin.cn/avatar/106043',
+    avatar: 'https://littleskin.cn/avatar/player/XieXiLin',
     name: 'uı̣ꓶı̣Xǝı̣X',
     title: 'Handyman/Translator',
     links: [
       { icon: 'github', link: 'https://github.com/XieXiLin2' },
       { icon: mail, link: 'mailto:support@xiexilin.com' }
+    ]
+  },
+  {
+    avatar: 'https://littleskin.cn/avatar/player/SmallSkru',
+    name: 'ILY.樱',
+    title: 'Planner',
+    links: [
+      { icon: 'github', link: 'https://github.com/SmallSkrua' },
+      { icon: mail, link: 'mailto:1436924406@qq.com' }
     ]
   }
 ]
