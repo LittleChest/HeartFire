@@ -16,14 +16,14 @@ hero:
 
 features:
   - icon: 🤔
-    title: What is the Heart Fire Project?
-    details: The Heart Fire Project is a passionate community of Minecraft players. Our mission is to make every Minecraft world understandable and enjoyable to the majority of players through translation and sharing.
+    title: What is Heart Fire Project?
+    details: Heart Fire Project is a passionate community of Minecraft players. Our mission is to make every Minecraft world understandable and enjoyable to the majority of players through translation and sharing.
   - icon: 🧭
-    title: Crossing the language barrier.
+    title: Breaking the language barrier.
     details: Our team specializes in translating Minecraft maps, and we're all committed to making the stories and environments of these worlds more accessible to a wider audience, so that language is no longer a barrier to exploring new worlds.
   - icon: 💝
     title: Create and share quality Minecraft experiences.
-    details: At the Heart Fire Project, we strongly believe that innovation and creativity is what drives us forward. We encourage every member to infuse their imagination into the world of Minecraft and create unique maps so that every player can experience a different kind of adventure.
+    details: In Heart Fire Project, we strongly believe that innovation and creativity is what drives us forward. We encourage every member to infuse their imagination into the world of Minecraft and create unique maps so that every player can experience a different kind of adventure.
 ---
 
 <script setup>
@@ -52,7 +52,7 @@ const members = [
   {
     avatar: 'https://littleskin.cn/avatar/414892',
     name: 'Beiyao',
-    title: 'owner/admin',
+    title: 'Owner/Admin',
     desc: "You can call me 北遥/北药/beiyao",
     links: [
       { icon: 'github', link: 'https://github.com/beiyaohhhc' },
@@ -87,7 +87,7 @@ const members = [
   {
     avatar: 'https://littleskin.cn/avatar/364649',
     name: 'P1ge0nLee0',
-    title: 'Handyman/Translator/\nPublicist',
+    title: 'Handyman/Translator/Publicist',
     desc: "Coo coo coo, coo coo coo coo coo coo coo coo coo coo coo coo coo coo coo coo.",
     links: [
       { icon: 'github', link: 'https://github.com/GGHePinGG' },
@@ -101,8 +101,8 @@ const members = [
   {
     avatar: 'https://littleskin.cn/avatar/player/Rsrsr',
     name: 'Roser / Rsrsr',
-    title: 'Art/Translator/Datapack/\nArchitecture/Planner',
-    desc: "The Other Side = Top Laborer",
+    title: 'Art/Translator/Datapack/Architecture/Designer',
+    desc: "The Other Side = Doubled Laborer",
     links: [
       { icon: 'github', link: 'https://github.com/Roser7419' },
       { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=3374287798' },
@@ -121,7 +121,7 @@ const members = [
   {
     avatar: 'https://littleskin.cn/avatar/player/SmallSkrua',
     name: 'ILY.樱',
-    title: 'Planner',
+    title: 'Designer',
     links: [
       { icon: 'github', link: 'https://github.com/SmallSkrua' },
       { icon: mail, link: 'mailto:1436924406@qq.com' }
