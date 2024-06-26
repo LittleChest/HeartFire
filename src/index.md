@@ -120,7 +120,7 @@ const members = [
   },
   {
     avatar: 'https://littleskin.cn/avatar/player/SmallSkrua',
-    name: 'ILY.樱',
+    name: 'SmallSkrua',
     title: '策划',
     links: [
       { icon: 'github', link: 'https://github.com/SmallSkrua' },
