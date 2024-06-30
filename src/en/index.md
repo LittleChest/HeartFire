@@ -42,9 +42,9 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/LittleChest' },
       { icon: 'discord', link: 'https://discord.com/users/894903639808831488' },
-      { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=2191038130' },
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=2191038130', alt: 'Tencent QQ' },
       { icon: 'x', link: 'https://twitter.com/littlechestw' },
-      { icon: mail, link: 'mailto:little@littlew.top' }
+      { icon: mail, link: 'mailto:little@littlew.top', alt: 'Email' }
     ],
     sponsor: "https://afdian.net/a/LittleChest",
     actionText: 'Sponsor'
@@ -57,9 +57,9 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/beiyaohhhc' },
       { icon: 'discord', link: 'https://discord.com/users/844536118895706152' },
-      { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=2383615282' },
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=2383615282', alt: 'Tencent QQ' },
       { icon: 'x', link: 'https://twitter.com/beiyao5200' },
-      { icon: mail, link: 'mailto:beiyao.chen@qq.com' }
+      { icon: mail, link: 'mailto:beiyao.chen@qq.com', alt: 'Email' }
     ]
   },
   {
@@ -68,7 +68,7 @@ const members = [
     title: 'Translator',
     links: [
       { icon: 'github', link: 'https://github.com/Seayay' },
-      { icon: mail, link: 'mailto:1kyr@hfpro.top' }
+      { icon: mail, link: 'mailto:1kyr@hfpro.top', alt: 'Email' }
     ]
   },
   {
@@ -78,8 +78,8 @@ const members = [
     desc: "Top idler in Heart Fire Project",
     links: [
       { icon: 'github', link: 'https://github.com/HeimNad' },
-      { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=5278626' },
-      { icon: mail, link: 'mailto:5278626@qq.com' }
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=5278626', alt: 'Tencent QQ' },
+      { icon: mail, link: 'mailto:5278626@qq.com', alt: 'Email' }
     ],
     sponsor: "https://payme.heimnad.top",
     actionText: 'Sponsor'
@@ -92,10 +92,10 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/GGHePinGG' },
       { icon: 'discord', link: 'https://discord.com/users/843090662350127114' },
-      { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=1434230923' },
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=1434230923', alt: 'Tencent QQ' },
       { icon: 'x', link: 'https://twitter.com/IamHePingGe' },
       { icon: 'youtube', link: 'https://www.youtube.com/@P1ge0nLee0' },
-      { icon: mail, link: 'mailto:me@lee0p1ge0n.top' }
+      { icon: mail, link: 'mailto:me@lee0p1ge0n.top', alt: 'Email' }
     ]
   },
   {
@@ -105,8 +105,8 @@ const members = [
     desc: "Doubled Labor(er)",
     links: [
       { icon: 'github', link: 'https://github.com/Roser7419' },
-      { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=3374287798' },
-      { icon: mail, link: 'mailto:Roser@7419.studio' }
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=3374287798', alt: 'Tencent QQ' },
+      { icon: mail, link: 'mailto:Roser@7419.studio', alt: 'Email' }
     ]
   },
   {
@@ -115,7 +115,7 @@ const members = [
     title: 'Handyman/Translator',
     links: [
       { icon: 'github', link: 'https://github.com/XieXiLin2' },
-      { icon: mail, link: 'mailto:support@xiexilin.com' }
+      { icon: mail, link: 'mailto:support@xiexilin.com', alt: 'Email' }
     ]
   },
   {
@@ -124,7 +124,7 @@ const members = [
     title: 'Designer',
     links: [
       { icon: 'github', link: 'https://github.com/SmallSkrua' },
-      { icon: mail, link: 'mailto:1436924406@qq.com' }
+      { icon: mail, link: 'mailto:1436924406@qq.com', alt: 'Email' }
     ]
   }
 ]
