@@ -42,9 +42,9 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/LittleChest' },
       { icon: 'discord', link: 'https://discord.com/users/894903639808831488' },
-      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=2191038130', ariaLabel: 'Tencent QQ' },
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=2191038130', ariaLabel: '腾讯 QQ' },
       { icon: 'x', link: 'https://twitter.com/littlechestw' },
-      { icon: mail, link: 'mailto:little@littlew.top', ariaLabel: 'Email' }
+      { icon: mail, link: 'mailto:little@littlew.top', ariaLabel: '电子邮件' }
     ],
     sponsor: "https://afdian.net/a/LittleChest",
     actionText: '赞助'
@@ -57,9 +57,9 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/beiyaohhhc' },
       { icon: 'discord', link: 'https://discord.com/users/844536118895706152' },
-      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=2383615282', ariaLabel: 'Tencent QQ' },
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=2383615282', ariaLabel: '腾讯 QQ' },
       { icon: 'x', link: 'https://twitter.com/beiyao5200' },
-      { icon: mail, link: 'mailto:beiyao.chen@qq.com', ariaLabel: 'Email' }
+      { icon: mail, link: 'mailto:beiyao.chen@qq.com', ariaLabel: '电子邮件' }
     ]
   },
   {
@@ -68,7 +68,7 @@ const members = [
     title: '翻译',
     links: [
       { icon: 'github', link: 'https://github.com/Seayay' },
-      { icon: mail, link: 'mailto:1kyr@hfpro.top', ariaLabel: 'Email' }
+      { icon: mail, link: 'mailto:1kyr@hfpro.top', ariaLabel: '电子邮件' }
     ]
   },
   {
@@ -78,8 +78,8 @@ const members = [
     desc: "心火计划最大闲人",
     links: [
       { icon: 'github', link: 'https://github.com/HeimNad' },
-      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=5278626', ariaLabel: 'Tencent QQ' },
-      { icon: mail, link: 'mailto:5278626@qq.com', ariaLabel: 'Email' }
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=5278626', ariaLabel: '腾讯 QQ' },
+      { icon: mail, link: 'mailto:5278626@qq.com', ariaLabel: '电子邮件' }
     ],
     sponsor: "https://payme.heimnad.top",
     actionText: '赞助'
@@ -92,10 +92,10 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/GGHePinGG' },
       { icon: 'discord', link: 'https://discord.com/users/843090662350127114' },
-      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=1434230923', ariaLabel: 'Tencent QQ' },
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=1434230923', ariaLabel: '腾讯 QQ' },
       { icon: 'x', link: 'https://twitter.com/IamHePingGe' },
       { icon: 'youtube', link: 'https://www.youtube.com/@P1ge0nLee0' },
-      { icon: mail, link: 'mailto:me@lee0p1ge0n.top', ariaLabel: 'Email' }
+      { icon: mail, link: 'mailto:me@lee0p1ge0n.top', ariaLabel: '电子邮件' }
     ]
   },
   {
@@ -105,8 +105,8 @@ const members = [
     desc: "彼岸双生 = 顶级劳工",
     links: [
       { icon: 'github', link: 'https://github.com/Roser7419' },
-      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=3374287798', ariaLabel: 'Tencent QQ' },
-      { icon: mail, link: 'mailto:Roser@7419.studio', ariaLabel: 'Email' }
+      { icon: qq, link: 'https://wpa.qq.com/wpa_jump_page?uin=3374287798', ariaLabel: '腾讯 QQ' },
+      { icon: mail, link: 'mailto:Roser@7419.studio', ariaLabel: '电子邮件' }
     ]
   },
   {
@@ -115,7 +115,7 @@ const members = [
     title: '打杂/翻译',
     links: [
       { icon: 'github', link: 'https://github.com/XieXiLin2' },
-      { icon: mail, link: 'mailto:support@xiexilin.com', ariaLabel: 'Email' }
+      { icon: mail, link: 'mailto:support@xiexilin.com', ariaLabel: '电子邮件' }
     ]
   },
   {
@@ -124,7 +124,7 @@ const members = [
     title: '策划',
     links: [
       { icon: 'github', link: 'https://github.com/SmallSkrua' },
-      { icon: mail, link: 'mailto:1436924406@qq.com', ariaLabel: 'Email' }
+      { icon: mail, link: 'mailto:1436924406@qq.com', ariaLabel: '电子邮件' }
     ]
   }
 ]

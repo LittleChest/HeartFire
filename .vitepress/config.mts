@@ -32,12 +32,12 @@ export default defineConfig({
   themeConfig: {
     logo: "/logo.png",
     externalLinkIcon: false,
+    aside: "left",
     outline: false,
     docFooter: {
       prev: false,
       next: false,
     },
-    socialLinks: [{ icon: "github", link: "https://github.com/Heart-Fire-Project" }],
     search: {
       provider: "local",
       options: {
