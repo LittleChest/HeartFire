@@ -75,7 +75,7 @@ const members = [
     avatar: 'https://littleskin.cn/avatar/415151',
     name: 'HeimNad',
     title: 'Technician',
-    desc: "Maximum idlers for the Heart Fire Project",
+    desc: "Top idler in Heart Fire Project",
     links: [
       { icon: 'github', link: 'https://github.com/HeimNad' },
       { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=5278626' },
