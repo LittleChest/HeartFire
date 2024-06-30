@@ -18,33 +18,27 @@ import VPBadge from 'vitepress/dist/client/theme-default/components/VPBadge.vue'
   <div class="container">
     <article v-for="(map, index) in maps" :key="index" class="map">
       <div class="info">
-        <img class="image" :src="map.frontmatter.img" :alt="map.frontmatter.title" />
+        <VPLink :href="map.url">
+          <img class="image" :src="map.frontmatter.img" :alt="map.frontmatter.title" />
           <div class="data">
-            <VPLink :href="map.url">
-              <h1 v-if="map.frontmatter.title" class="name">
-                {{ map.frontmatter.title }}
-              </h1>
-            </VPLink>
+            <h1 v-if="map.frontmatter.title" class="name"> 
+              {{ map.frontmatter.title }}
+            </h1>
             <VPLink :href="map.frontmatter.profile" no-icon>
               <i v-if="map.frontmatter.author" class="author">
                 Created by {{ map.frontmatter.author }}
-                <br />
               </i>
             </VPLink>
-            <VPLink :href="map.url">
-              <VPBadge v-if="map.frontmatter.version" type="danger" :text="map.frontmatter.version" />
-            </VPLink>
+            <br />
+            <VPBadge v-if="map.frontmatter.version" type="danger" :text="map.frontmatter.version" />
             <VPLink :href="map.url+'#respack'">
               <VPBadge v-if="map.frontmatter.respack" type="warning" :text="map.frontmatter.respack" />
             </VPLink>
-            <VPLink :href="map.url">
-              <VPBadge v-if="map.frontmatter.referer" type="tip" :text="map.frontmatter.referer" />
-            </VPLink>
-            <VPLink :href="map.url">
-              <p class="desc" v-html="map.frontmatter.desc" />
-            </VPLink>
+            <VPBadge v-if="map.frontmatter.referer" type="tip" :text="map.frontmatter.referer" />
+            <p class="desc" v-html="map.frontmatter.desc" />
           </div>
-        </div>
+        </VPLink>
+      </div>
       <div class="sp">
         <VPLink v-if="map.frontmatter.download" class="sp-link" :href="map.frontmatter.download" no-icon>
           <span class="vpi-arrow-down sp-icon" />Download
