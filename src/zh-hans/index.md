@@ -52,7 +52,7 @@ const members = [
   {
     avatar: 'https://littleskin.cn/avatar/414892',
     name: 'Beiyao',
-    title: 'Owner/Admin',
+    title: '创始人/翻译',
     desc: "你可以叫我北遥/北药/beiyao",
     links: [
       { icon: 'github', link: 'https://github.com/beiyaohhhc' },

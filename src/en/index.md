@@ -102,7 +102,7 @@ const members = [
     avatar: 'https://littleskin.cn/avatar/player/Rsrsr',
     name: 'Roser / Rsrsr',
     title: 'Art/Translator/Datapack/Architecture/Designer',
-    desc: "The Other Side = Doubled Laborer",
+    desc: "Doubled Labor(er)",
     links: [
       { icon: 'github', link: 'https://github.com/Roser7419' },
       { icon: qq, link: 'http://wpa.qq.com/msgrd?uin=3374287798' },
