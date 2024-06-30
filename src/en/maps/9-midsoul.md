@@ -1,9 +1,9 @@
 ---
-title: 午夜灵魂
-author: Roser7419
-img: https://static.planetminecraft.com/files/image/minecraft/project/2024/122/17521314-cache-ccdebc_l.webp
+title: MidSoul
+author: Roser
+img: https://download.hfpro.top/maps/images/9-midsoul.webp
 version: 1.20.4
-desc: "Midnight Soul"
+desc: You'll play as a soul or a soul guardian, dodging and chasing your way to ultimate victory within the game!
 download: https://download.hfpro.top/maps/heartfireproject/midsoul/MidSoul.zip
-respack: 可选语言包
+respack: Optional Language Pack
 ---
