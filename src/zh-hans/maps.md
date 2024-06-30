@@ -24,12 +24,23 @@ import VPBadge from 'vitepress/dist/client/theme-default/components/VPBadge.vue'
               <h1 v-if="map.frontmatter.title" class="name">
                 {{ map.frontmatter.title }}
               </h1>
+            </VPLink>
+            <VPLink :href="map.frontmatter.profile" no-icon>
               <i v-if="map.frontmatter.author" class="author">
                 由 {{ map.frontmatter.author }} 创作
                 <br />
               </i>
-              <VPBadge v-if="map.frontmatter.version" :text="map.frontmatter.version" />
+            </VPLink>
+            <VPLink :href="map.url">
+              <VPBadge v-if="map.frontmatter.version" type="danger" :text="map.frontmatter.version" />
+            </VPLink>
+            <VPLink :href="map.url+'#respack'">
               <VPBadge v-if="map.frontmatter.respack" type="warning" :text="map.frontmatter.respack" />
+            </VPLink>
+            <VPLink :href="map.url">
+              <VPBadge v-if="map.frontmatter.referer" type="tip" :text="map.frontmatter.referer" />
+            </VPLink>
+            <VPLink :href="map.url">
               <p class="desc" v-html="map.frontmatter.desc" />
             </VPLink>
           </div>

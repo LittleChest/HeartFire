@@ -1,11 +1,13 @@
 ---
 title: 午夜灵魂
 author: Roser
+profile: https://github.com/Roser7419
 img: https://download.hfpro.top/maps/images/9-midsoul.webp
 version: 1.20.4
 desc: 你将扮演灵魂或灵魂守卫者，在游戏内通过躲避与追逐取得最终胜利。
 download: https://download.hfpro.top/maps/heartfireproject/midsoul/MidSoul.zip
 respack: 可选语言包
+referer: 原创
 ---
 
 # {{ $frontmatter.title }}
@@ -52,6 +54,6 @@ ZachOBuilds, oozner, WHLDTITAN
 
 [![从 MediaFire 下载](https://img.shields.io/badge/MediaFire-0077FF.svg?style=for-the-badge&logo=mediafire&logoColor=white)](https://www.mediafire.com/file/mrtvdb3j21yq4o9/MidSoul.zip/file)
 
-# 附加
+# 附加 {#respack}
 
 如果您想以简体中文外的语言游玩午夜灵魂，请从此处[下载语言包](https://download.hfpro.top/maps/heartfireproject/midsoul/languagepack/MidSoul-LanguagePack.zip)，翻译由心火计划与社区共同提供，可在[鸣谢列表](#翻译)中获取更多详细信息。
