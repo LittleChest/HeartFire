@@ -2,7 +2,7 @@ import { defineConfig, type DefaultTheme } from "vitepress";
 let adjectives: Array<string> = ["可爱的", "伟大的", "笨蛋"];
 let adjective = adjectives[Math.floor(Math.random() * adjectives.length)];
 
-export const zh_Hans = defineConfig({
+export const zhHans = defineConfig({
   title: "心火计划",
   titleTemplate: " 心火计划",
   description: "一个关于 Minecraft 的计划。",
@@ -39,7 +39,7 @@ function nav(): DefaultTheme.NavItem[] {
 }
 
 export const search: DefaultTheme.LocalSearchOptions["locales"] = {
-  root: {
+  "zh-hans": {
     translations: {
       button: {
         buttonText: "搜索",

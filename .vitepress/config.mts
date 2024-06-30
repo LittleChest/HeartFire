@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 import { en, search as enSearch } from "./en";
-import { zh_Hans, search as zhHansSearch } from "./zh-Hans";
+import { zhHans, search as zhHansSearch } from "./zh-Hans";
 
 export default defineConfig({
   head: [
@@ -26,8 +26,8 @@ export default defineConfig({
     hostname: "https://hfpro.top",
   },
   locales: {
-    root: { label: "简体中文", ...zh_Hans },
     en: { label: "English", ...en },
+    "zh-hans": { label: "简体中文", ...zhHans },
   },
   themeConfig: {
     logo: "/logo.png",
